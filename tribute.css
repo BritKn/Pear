@@ -1,0 +1,89 @@
+.pear3 {
+    position: relative;
+    width: 10%;
+}
+
+.pear34 {
+    position: relative;
+    width: 20%;
+}
+
+p1 {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(0, 255, 255);
+    font-size: 200%;
+}
+
+p2 {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(255, 0, 0);
+    font-size: 200%;
+}
+
+p3 {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(255, 238, 0);
+    font-size: 200%;
+}
+
+p4 {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(0, 255, 0);
+    font-size: 200%;
+}
+
+p5 {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(0, 42, 255);
+    font-size: 200%;
+}
+
+p1 {
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+p2 {
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+p3 {
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+p4 {
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+p5 {
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
