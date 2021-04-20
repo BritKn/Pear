@@ -1,0 +1,22 @@
+diva {
+    display: inline;
+    margin-left: 450px;
+    color: white;
+    font-size: 700%;
+}
+
+body {
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+
+.x {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 250%;
+}
