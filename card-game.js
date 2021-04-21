@@ -75,7 +75,7 @@ for (let index = 0; index < hand.length; index++) {
 }
 
 var setup = function () {
-    createCanvas(1000,800);
+    createCanvas(1910,923);
 };
 var draw = function () {
     background("forestgreen");
