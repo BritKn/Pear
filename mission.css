@@ -1,22 +1,22 @@
 diva {
     display: inline;
     margin-left: 450px;
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 700%;
 }
 
 body {
     text-shadow:
-        -1px -1px 0 #000,
-        1px -1px 0 #000,
-        -1px 1px 0 #000,
-        1px 1px 0 #000;
+        -1px -1px 0 rgb(255, 255, 255),
+        1px -1px 0 rgb(255, 254, 254),
+        -1px 1px 0 rgb(255, 251, 251),
+        1px 1px 0 rgb(255, 255, 255);
 }
 
 .x {
     display: inline;
     margin-left: auto;
     margin-right: auto;
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 250%;
 }
