@@ -8,10 +8,19 @@
 </head>
 <body style="background-color: black;">
     <button type="button"
-    class="colorBtn">Spam This</button>
+    class="colorBtn" onclick="myFunction()">Spam This</button>
     <script src="stroke.js"></script>
     <a href="index.html">
         <img src="pear-removebg-preview.png" alt="HTML tutorial" style="width:110px;height:110px; position: absolute; top: 25px; left: 10px;">
         </a>
+        
+<p id="demo" style="font-size: 50px; position: absolute; right: 42%;" ></p>
+
+<script>
+var count = 0;
+function myFunction() {
+  document.getElementById("demo").innerHTML = count++;
+}
+</script>
 </body>
 </html>
